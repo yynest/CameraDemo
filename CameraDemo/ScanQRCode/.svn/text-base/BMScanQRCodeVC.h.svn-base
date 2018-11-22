@@ -1,0 +1,23 @@
+//
+//  BMScanQRCodeVC.h
+//  JieXiYa
+//
+//  Created by yye on 15/10/13.
+//  Copyright (c) 2015年 cju88. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+#import "CustomBaseViewController.h"
+
+@protocol ScanQRCodeDelegate <NSObject>
+
+- (void)returnScanQRCode:(NSString *)code;
+
+@end
+
+
+@interface BMScanQRCodeVC : CustomBaseViewController<AVCaptureMetadataOutputObjectsDelegate>
+@property(nonatomic,strong) id scanQRCodeDelegate;
+
+@end

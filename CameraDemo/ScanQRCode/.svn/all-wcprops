@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/18670/iOS/trunk/SmartBand/SmartBand/Classes/ViewController/BindDevice/ScanQRCode
+END
+BMScanQRCodeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/18593/iOS/trunk/SmartBand/SmartBand/Classes/ViewController/BindDevice/ScanQRCode/BMScanQRCodeVC.h
+END
+ScanQRCodeBkView.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/18593/iOS/trunk/SmartBand/SmartBand/Classes/ViewController/BindDevice/ScanQRCode/ScanQRCodeBkView.h
+END
+BMScanQRCodeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/18670/iOS/trunk/SmartBand/SmartBand/Classes/ViewController/BindDevice/ScanQRCode/BMScanQRCodeVC.m
+END
+ScanQRCodeBkView.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%8D%83%E5%B1%B1%E9%99%8D%E5%8E%8B/!svn/ver/18593/iOS/trunk/SmartBand/SmartBand/Classes/ViewController/BindDevice/ScanQRCode/ScanQRCodeBkView.m
+END
